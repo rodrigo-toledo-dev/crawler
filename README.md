@@ -45,3 +45,11 @@ brew services start mongodb
 ```
 rails s
 ```
+
+## find some tag
+
+Search tag **love**
+
+```
+http://localhost:3000/quotes/love
+```
