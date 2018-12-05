@@ -114,7 +114,6 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
-    redis (4.0.3)
     ruby_dep (1.5.0)
     sprockets (3.7.2)
       concurrent-ruby (~> 1.0)
@@ -143,7 +142,6 @@ DEPENDENCIES
   mongoid (~> 6.0)
   puma (~> 3.11)
   rails (~> 5.2.2)
-  redis (~> 4.0)
   sqlite3
   tzinfo-data
 
